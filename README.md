@@ -2,6 +2,8 @@
 
 This repository contains the release notes for the [EnergyGrip Dashboard](https://github.com/aurumeurope/EnergyGrip-Dashboard).
 
+See also the [EnergyGrip Releases page](https://github.com/aurumeurope/EnergyGrip-Dashboard/releases) for more information about the latest release contents.
+
 ## Writing release notes (for dummies)
 
 1. Open this repository in the web client of [Visual Studio Code](https://github.dev/aurumeurope/EnergyGrip-Dashboard-ReleaseNotes).
